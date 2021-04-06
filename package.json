@@ -11,5 +11,8 @@
   "dependencies": {
     "csv-parser": "^3.0.0",
     "ioredis": "^4.25.0"
+  },
+  "devDependencies": {
+    "node": "^14.16.0"
   }
 }
